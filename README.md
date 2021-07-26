@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samarth Murthy
-- ⚽ I’m interested in sports and data science
+- ⚽ I’m interested in sports and data 
 - 💞️ I’m looking to collaborate on C++ or JavaScript projects
 - 📫 How to reach me : samarthm16@gmail.com
 
